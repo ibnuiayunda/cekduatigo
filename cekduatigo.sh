@@ -7,11 +7,11 @@ git clone https://github.com/ibnuiayunda/cekduatigo
 
 Download file bash Ubah hak akses file menjadi execute
 
-cd cekduatigo
+cd cekduatigo.sh
 chmod +x cekduatigo.sh
 
 eksekusi
 
-./AutoInstallGenieACS.sh
+./cekduatigo.sh
 
 dan berhasil
